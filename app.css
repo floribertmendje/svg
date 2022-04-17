@@ -1,0 +1,25 @@
+.map_image{ 
+  width: 50%;
+  float: left;
+}
+
+.map_image path{ 
+   fill: #a4ced2;
+   stroke: #FFF;
+   stroke-width: 1px;
+   transition: fill 0.3s;
+}
+
+.map_image path:hover{ 
+    fill: #3538d2;
+}
+
+.map_list{ 
+    float: right;
+    width: 50px;
+}
+
+.map_list a{ 
+    color: inherit;
+    
+}
